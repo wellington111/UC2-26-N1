@@ -109,7 +109,7 @@ let result2 = (5 * 2) + 10;
 // 4. Subtraia 6 do resultado final
 // 
 
-let result3 = (20 / 4) + (3 * 2) - 6;
+let result3 = ((20 / 4) + (3 * 2)) - 6;
 
 
 

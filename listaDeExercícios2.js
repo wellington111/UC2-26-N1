@@ -52,7 +52,7 @@ let textValue = String(value)
 console.log(textValue)
 
 /*
-
+ o correto é let textValue = String(value), e estava let textValue = value.tostring();.
 */
 
 // =========================
